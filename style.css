@@ -1,0 +1,202 @@
+#header {
+  width: 600px;
+}
+h1 {
+  position: absolute;
+  width: 450px;
+  height: 68px;
+  left: 70px;
+  top: 147px;
+
+  font-family: "Helvetica";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 35px;
+  color: #00a857;
+}
+#oi {
+  position: absolute;
+  width: 89px;
+  height: 23px;
+  left: 60px;
+  top: 291px;
+
+  font-family: "Helvetica";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 23px;
+
+  color: #00a857;
+}
+#texto1 {
+  position: absolute;
+  width: 453px;
+  height: 71px;
+  left: 60px;
+  top: 374px;
+
+  font-family: "Helvetica";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 23px;
+  /* or 128% */
+
+  color: #00a857;
+}
+.texto2 {
+  font-family: "Helvetica";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 23px;
+}
+#carteira {
+  position: absolute;
+  width: 56px;
+  height: 56px;
+  left: 60px;
+  top: 505px;
+}
+#tarifa_zero {
+  position: absolute;
+  width: 56px;
+  height: 56px;
+  left: 60px;
+  top: 581px;
+}
+#tarifa {
+  position: absolute;
+  width: 56px;
+  height: 56px;
+  left: 60px;
+  top: 657px;
+}
+#cashback {
+  position: absolute;
+  width: 56px;
+  height: 56px;
+  left: 60px;
+  top: 733px;
+}
+#saque {
+  position: absolute;
+  width: 317px;
+  height: 23px;
+  left: 146px;
+  top: 522px;
+}
+#anuidade {
+  position: absolute;
+  width: 367px;
+  height: 46px;
+  left: 146px;
+  top: 586px;
+}
+#empréstimo {
+  position: absolute;
+  width: 383px;
+  height: 46px;
+  left: 146px;
+  top: 662px;
+}
+#cashback2 {
+  position: absolute;
+  width: 383px;
+  height: 46px;
+  left: 146px;
+  top: 738px;
+}
+#top {
+    position: absolute;
+    width: 600px;
+    height: 131px;
+    left: 0px;
+    top: 844px;
+    
+}
+#portabilidade {
+  position: absolute;
+  width: 600px;
+  height: 576px;
+  left: 0px;
+  top: 975px;
+}
+#completo {
+  width: 600px;
+  position: absolute;
+  height: 272px;
+  left: 0px;
+  top: 1551px;
+}
+#footer {
+  width: 540px;
+  position: absolute;
+  height: 96.72px;
+  left: 30px;
+  top: 1853px;
+}
+#siga {
+  position: absolute;
+  width: 185px;
+  height: 40px;
+  left: 63px;
+  top: 1980px;
+
+  font-family: "Helvetica";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 20px;
+  color: #00a857;
+}
+#twitter {
+  position: absolute;
+  width: 25px;
+  height: 25px;
+  left: 368px;
+  top: 1983px;
+}
+#facebook {
+  position: absolute;
+  width: 25px;
+  height: 25px;
+  left: 403px;
+  top: 1983px;
+}
+#instagram {
+  position: absolute;
+  width: 25px;
+  height: 25px;
+  left: 438px;
+  top: 1983px;
+}
+#linkedin {
+  position: absolute;
+  width: 25px;
+  height: 25px;
+  left: 473px;
+  top: 1983px;
+}
+#youtube {
+  position: absolute;
+  width: 25px;
+  height: 25px;
+  left: 508px;
+  top: 1983px;
+}
+#email {
+  position: absolute;
+  width: 474px;
+  height: 242px;
+  left: 63px;
+  top: 2078px;
+
+  font-family: "Helvetica";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 20px;
+}
